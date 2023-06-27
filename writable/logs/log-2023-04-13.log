@@ -1,0 +1,1911 @@
+CRITICAL - 2023-04-13 03:23:47 --> Undefined property: App\Controllers\Ta::$m_ta
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m_ta', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:13 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:14 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:14 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:14 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:15 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:15 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:15 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:15 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:15 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:15 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:16 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:16 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:16 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:16 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:16 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:17 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:17 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:17 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:17 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:17 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:17 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:18 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:18 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:24:18 --> Undefined property: App\Controllers\Ta::$m
+in APPPATH\Controllers\Ta.php on line 71.
+ 1 APPPATH\Controllers\Ta.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ta::$m', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Ta.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ta->setStatusTa('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ta))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:39:40 --> Undefined variable $siswa
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 35.
+ 1 APPPATH\Views\admin\jadwalpelajaran\index.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $siswa', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\admin\\jadwalpelajaran\\index.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\admin\\jadwalpelajaran\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\JadwalPelajaran.php(13): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:39:56 --> Undefined variable $siswa_tpk
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 63.
+ 1 APPPATH\Views\admin\jadwalpelajaran\index.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $siswa_tpk', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\admin\\jadwalpelajaran\\index.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\admin\\jadwalpelajaran\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\JadwalPelajaran.php(13): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 03:58:57 --> Undefined property: App\Controllers\JadwalPelajaran::$MoedelTa
+in APPPATH\Controllers\JadwalPelajaran.php on line 17.
+ 1 APPPATH\Controllers\JadwalPelajaran.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\JadwalPelajaran::$MoedelTa', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\JadwalPelajaran.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:00:24 --> Value of type null is not callable
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:01:23 --> Value of type null is not callable
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:01:23 --> Value of type null is not callable
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:01:24 --> Value of type null is not callable
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:01:24 --> Value of type null is not callable
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:01:24 --> Value of type null is not callable
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:01:25 --> Value of type null is not callable
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:38 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:39 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:39 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:40 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:40 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:40 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:41 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:41 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:41 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:42 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:42 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:42 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:42 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:43 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:43 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:43 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:44 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:03:45 --> Array callback must have exactly two elements
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 3.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:05:41 --> syntax error, unexpected token "/"
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 4.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\JadwalPelajaran.php(20): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:49:27 --> Undefined property: App\Controllers\JadwalPelajaran::$ModelJadwalPelajaran
+in APPPATH\Controllers\JadwalPelajaran.php on line 21.
+ 1 APPPATH\Controllers\JadwalPelajaran.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\JadwalPelajaran::$ModelJadwalPelajaran', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\JadwalPelajaran.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:04 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:04 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:05 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:05 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:06 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:06 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:06 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:06 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:06 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:06 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:06 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:06 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:06 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:06 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:06 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:06 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:07 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:07 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:07 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:07 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:07 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:07 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:07 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:07 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:07 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:07 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:08 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:08 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:08 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:08 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:08 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:08 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:08 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:08 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:08 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:08 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:08 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:08 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:09 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:09 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:09 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:09 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:09 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:09 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:09 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:09 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:09 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:09 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-13 04:50:09 --> mysqli_sql_exception: Unknown column 'tbl_gedung.id_gedung' in 'order clause' in C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\siakad-mts\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\siakad-mts\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\siakad-mts\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\siakad-mts\app\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\siakad-mts\app\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+#6 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+#7 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+#8 C:\xampp\htdocs\siakad-mts\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\siakad-mts\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-13 04:50:09 --> Unknown column 'tbl_gedung.id_gedung' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_jadwal`
+LEFT JOIN `tbl_mapel` ON `tbl_mapel`.`id_mapel` = `tbl_jadwal`.`id_mapel`
+LEFT JOIN `tbl_romkel` ON `tbl_romkel`.`id_romkel` = `tbl_jadwal`.`id_romkel`
+LEFT JOIN `tbl_guru` ON `tbl_guru`.`id_guru` = `tbl_jadwal`.`id_guru`
+ORDER BY `tbl_gedung`.`id_gedung` ASC', [], false)
+ 5 APPPATH\Models\ModelJadwalPelajaran.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\JadwalPelajaran.php(24): App\Models\ModelJadwalPelajaran->allData()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:52:48 --> Unclosed '{' on line 37
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 50.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\JadwalPelajaran.php(27): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 04:57:24 --> Undefined array key "nama_mapel"
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 40.
+ 1 APPPATH\Views\admin\jadwalpelajaran\index.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_mapel"', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\admin\\jadwalpelajaran\\index.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\admin\\jadwalpelajaran\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\JadwalPelajaran.php(27): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 05:10:51 --> Call to undefined function form_open()
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 70.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\JadwalPelajaran.php(27): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 05:37:55 --> Undefined variable $mapel
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 77.
+ 1 APPPATH\Views\admin\jadwalpelajaran\index.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mapel', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\admin\\jadwalpelajaran\\index.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\admin\\jadwalpelajaran\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\JadwalPelajaran.php(30): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 05:46:57 --> Undefined array key "id_gedung"
+in APPPATH\Views\admin\jadwalpelajaran\index.php on line 58.
+ 1 APPPATH\Views\admin\jadwalpelajaran\index.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_gedung"', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\admin\\jadwalpelajaran\\index.php', 58)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\admin\\jadwalpelajaran\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/jadwalpelajaran/index', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('admin/jadwalpelajaran/index')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\JadwalPelajaran.php(33): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\JadwalPelajaran->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JadwalPelajaran))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

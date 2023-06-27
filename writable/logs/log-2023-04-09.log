@@ -1,0 +1,2052 @@
+CRITICAL - 2023-04-09 03:24:26 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-04-09 03:25:18 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-04-09 03:26:22 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-04-09 03:30:56 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+INFO - 2023-04-09 03:17:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:17:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:17:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:17:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:17:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:18:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:18:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:18:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:21:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:22:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:22:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:22:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:23:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:23:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:23:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:23:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:27:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:29:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:29:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:33:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:33:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:34:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:34:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:37:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:40:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:40:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:40:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:40:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:40:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:40:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:40:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:40:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:41:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:41:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:42:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:42:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:42:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:43:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:44:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:44:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:46:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:46:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:46:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:46:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:49:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:51:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:51:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:51:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:52:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:52:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:52:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:52:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:53:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:53:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:53:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:53:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 03:53:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:00:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:00:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:00:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:00:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:00:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:01:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:04:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:04:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:04:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:04:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:38 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:41 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:41 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:41 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:41 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:42 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:04:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:44 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:49 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:50 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:50 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:50 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:50 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:50 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:51 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:51 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:51 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:04:52 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:05:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:05:00 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:05:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:05:03 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:05:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:05:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:05:06 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:05:08 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:05:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:05:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:05:10 --> Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('login')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:05:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:06:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:06:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:06:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:06:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:06:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:06:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:12:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:12:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:18:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:18:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:18:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:18:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:18:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:19:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:19:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:19:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:33:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:33:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:33:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:33:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:33:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:33:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:33:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:33:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:33:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:33:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:34:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:34:09 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('login')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:34:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:34:12 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('login')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:34:15 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('login')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:34:15 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('login')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:34:15 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('login')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:34:15 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('login')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:34:16 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('login')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:34:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:34:42 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('login')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:34:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:34:42 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('login')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:34:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:34:42 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('login')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:34:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:34:42 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('login')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:34:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:34:42 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('login')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:34:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:34:43 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('login')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:34:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:34:43 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('login')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:34:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:34:43 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('login')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Auth.php(13): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:36:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:36:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:36:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:42:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:08 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:54:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:12 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:13 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:13 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:13 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:14 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:14 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:14 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:14 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:14 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:15 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:15 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:15 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:15 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:15 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:15 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:16 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:16 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:16 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:16 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:16 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:17 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:17 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:17 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:17 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:18 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:18 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:18 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:18 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:18 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:19 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:38 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:38 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:39 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:39 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:54:39 --> Undefined variable $variable
+in APPPATH\Views\login.php on line 13.
+ 1 APPPATH\Views\login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $variable', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('login')
+ 6 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Auth.php(17): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->index()
+15 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+16 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:55:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:55:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 04:56:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 04:57:32 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\ModelAuth.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\siakad-mts\\app\\Models\\ModelAuth.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ModelAuth')
+ 4 APPPATH\Controllers\Auth.php(10): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ModelAuth')
+ 5 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Auth->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 04:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:08:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:08:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:08:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:09:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:09:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:09:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:10:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:10:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:10:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:10:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:12:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:13:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:15:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:15:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:15:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:18:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:18:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:18:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:18:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:18:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:18:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:18:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:18:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:18:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:18:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:18:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 05:29:14 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('admin', 'admin')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 05:30:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 05:30:16 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('asdfas', 'asdfas')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 05:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 05:32:32 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('admin', 'admin')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 05:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 05:32:46 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('admin', 'asfasfasfa')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 05:32:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 05:33:12 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('admin', 'admin')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 05:39:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 05:48:09 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('admin', 'admin')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 05:48:34 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('admin', 'admin')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 05:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:48:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:48:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 05:48:50 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('asdfas', 'asfasf')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 05:49:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 05:49:41 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('admin', 'admin')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 05:49:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:49:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:49:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 05:49:49 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('admin', 'admin')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 05:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:59:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 05:59:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 05:59:06 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('adfas', 'asfasf')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 06:00:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 06:00:54 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('admin', 'admin')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 06:00:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 06:01:03 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('admin', 'admin')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 06:12:53 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('admin', 'admin')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 06:12:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:13:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:13:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 06:13:47 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('asfas', 'asfas')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 06:15:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 06:15:55 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('asdfa', 'asdfasdf')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-09 06:16:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-09 06:16:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-09 06:16:38 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('asdfasf', 'asfasf')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 06:19:56 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('asdfasf', 'asf')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 06:20:10 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('asdfasf', 'afasfasfas')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 06:20:54 --> Undefined constant "App\Models\this"
+in APPPATH\Models\ModelAuth.php on line 9.
+ 1 APPPATH\Controllers\Auth.php(52): App\Models\ModelAuth->login_user('admin', 'admin')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 12:20:23 --> syntax error, unexpected token "."
+in APPPATH\Views\layout\nav.php on line 40.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/nav', [], true)
+ 3 APPPATH\Views\layout\wrapper.php(5): view('layout/nav')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 7 APPPATH\Controllers\Admin.php(13): view('layout/wrapper', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Admin->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 14:06:08 --> syntax error, unexpected token "foreach"
+in APPPATH\Views\admin\v_fakultas.php on line 31.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/v_fakultas', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('admin/v_fakultas')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Fakultas.php(19): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Fakultas->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Fakultas))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 14:25:24 --> Call to undefined function form_open()
+in APPPATH\Views\admin\v_fakultas.php on line 63.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('admin/v_fakultas', [], true)
+ 4 APPPATH\Views\layout\content.php(4): view('admin/v_fakultas')
+ 5 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 8 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 9 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+10 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+11 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+12 APPPATH\Controllers\Fakultas.php(19): view('layout/wrapper', [...])
+13 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Fakultas->index()
+14 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Fakultas))
+15 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 16:26:59 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 882.
+ 1 SYSTEMPATH\Model.php(642): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(432): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(1065): CodeIgniter\Model->doDelete([...], false)
+ 4 APPPATH\Controllers\Fakultas.php(46): CodeIgniter\BaseModel->delete([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Fakultas->delete('7')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Fakultas))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 16:27:43 --> Declaration of App\Models\ModelFakultas::delete($data) must be compatible with CodeIgniter\BaseModel::delete($id = null, bool $purge = false)
+in APPPATH\Models\ModelFakultas.php on line 24.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-09 16:28:10 --> Undefined array key "id_fakultas"
+in APPPATH\Models\ModelFakultas.php on line 26.
+ 1 APPPATH\Models\ModelFakultas.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_fakultas"', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Models\\ModelFakultas.php', 26)
+ 2 APPPATH\Controllers\Fakultas.php(46): App\Models\ModelFakultas->delete_data([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Fakultas->delete('7')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Fakultas))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 16:28:25 --> Undefined array key "id_fakultas"
+in APPPATH\Models\ModelFakultas.php on line 26.
+ 1 APPPATH\Models\ModelFakultas.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_fakultas"', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Models\\ModelFakultas.php', 26)
+ 2 APPPATH\Controllers\Fakultas.php(46): App\Models\ModelFakultas->delete_data([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Fakultas->delete('7')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Fakultas))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 16:28:50 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 882.
+ 1 SYSTEMPATH\Model.php(642): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(432): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(1065): CodeIgniter\Model->doDelete([...], false)
+ 4 APPPATH\Controllers\Fakultas.php(46): CodeIgniter\BaseModel->delete([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Fakultas->delete('7')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Fakultas))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 16:28:51 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 882.
+ 1 SYSTEMPATH\Model.php(642): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(432): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(1065): CodeIgniter\Model->doDelete([...], false)
+ 4 APPPATH\Controllers\Fakultas.php(46): CodeIgniter\BaseModel->delete([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Fakultas->delete('7')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Fakultas))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-09 16:28:55 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 882.
+ 1 SYSTEMPATH\Model.php(642): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(432): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(1065): CodeIgniter\Model->doDelete([...], false)
+ 4 APPPATH\Controllers\Fakultas.php(46): CodeIgniter\BaseModel->delete([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Fakultas->delete('7')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Fakultas))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

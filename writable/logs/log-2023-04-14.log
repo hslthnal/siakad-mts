@@ -1,0 +1,24 @@
+CRITICAL - 2023-04-14 01:44:34 --> Invalid file: "v_dashboard_siswa.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_dashboard_siswa.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('v_dashboard_siswa', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('v_dashboard_siswa')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\siakad-mts\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Murid.php(18): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Murid->index()
+13 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Murid))
+14 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-14 02:18:41 --> Undefined array key "nip"
+in APPPATH\Controllers\Auth.php on line 70.
+ 1 APPPATH\Controllers\Auth.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nip"', 'C:\\xampp\\htdocs\\siakad-mts\\app\\Controllers\\Auth.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Auth->cek_login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
