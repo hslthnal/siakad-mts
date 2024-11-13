@@ -5,6 +5,13 @@
 Sistem Informasi Akademik ini merupakan sebuah sistem yang digunakan untuk mengelola data akademik disuatu instansi pendidikan.
 Sistem ini dibuat untuk keperluan kerja praktek yang dilaksanakan di MTS Yapinnur Sarakan.
 
+## Analisa Sistem
+
+Sistem ini dibuat menggunakan beberapa teknologi seperti:
+- Bahasa Pemrograman PHP
+- Framework CodeIgniter 4
+- Database MySQL
+
 ## Important Change with index.php
 
 `index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
