@@ -1,4 +1,4 @@
-# CodeIgniter 4 Framework
+# Sistem Informasi Akademik
 
 ## What is CodeIgniter?
 
